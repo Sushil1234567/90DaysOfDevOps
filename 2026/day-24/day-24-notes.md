@@ -114,6 +114,7 @@ ans: Trade-off sqaushing is detailed commit history is lost from feature branch 
 8.Answer in your notes:
 
 * What is the difference between git stash pop and git stash apply?
+
 ans: Git stash pop pulls out a particular stash out of many stashes.
 And git stash apply restores previously stashed changes to our current working directory and staging area.
 
