@@ -16,8 +16,15 @@ rest of the time, this same space would be alloted to other software which is ru
 
 * What is the Docker architecture? (daemon, client, images, containers, registry)
 
-ans: 
+ans: Docker Deamon: Is the the background process that manages images , networks and runs containers.
 
+Docker client: is the interractive layer that communicates with docker engine (command line tool who takes commands from the user)
+
+Docker images: The blue print template by using which a docker container is built.
+
+Docker contianer: Is a running state of image which is a package of application with all the neccesary  dependencies and configurations , this makes the development and deployment efficient .
+
+Docker Registry: Is the place were docker container images are stored and distributed .
 
 
 **Task 2: Install Docker**
