@@ -6,23 +6,28 @@ Run: lsblk, pvs, vgs, lvs, df -h
 
 **Task 2: Create Physical Volume**
 
-<img width="708" height="301" alt="image" src="https://github.com/user-attachments/assets/8dd5cab9-9db7-4ae6-85c4-96bbf0778a7f" />
+<img width="612" height="513" alt="image" src="https://github.com/user-attachments/assets/1632b418-03b0-4587-95fb-8f28329355b0" />
+
 
 **Task 3: Create Volume Group**
 
-<img width="982" height="137" alt="image" src="https://github.com/user-attachments/assets/650005a0-e031-419d-889f-0af20f242312" />
+<img width="452" height="123" alt="image" src="https://github.com/user-attachments/assets/66a67549-81dd-4f43-af29-fac52313d9f9" />
+
 
 **Task 4: Create Logical Volume**
 
-<img width="1120" height="132" alt="image" src="https://github.com/user-attachments/assets/7fc3ba0c-8585-48ce-b6f8-0a15546e27dd" />
+<img width="872" height="112" alt="image" src="https://github.com/user-attachments/assets/067abe91-bf4f-444f-a7f3-3b909d38db5e" />
+
 
 **Task 5: Format and Mount**
 
-<img width="972" height="467" alt="image" src="https://github.com/user-attachments/assets/28d3d85b-9b93-4d03-a765-ea9eb5eeeea7" />
+<img width="883" height="710" alt="image" src="https://github.com/user-attachments/assets/b82a85d9-3793-4584-a020-1f49480d8ab9" />
+
 
 **Task 6: Extend the Volume**
 
-<img width="1262" height="306" alt="image" src="https://github.com/user-attachments/assets/f9b3a7d0-0de5-41bc-be73-4d1662608239" />
+<img width="1058" height="555" alt="image" src="https://github.com/user-attachments/assets/a7840f99-9644-4118-9802-004dbba08652" />
+
 
 
 **END.**
