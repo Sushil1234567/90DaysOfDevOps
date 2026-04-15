@@ -77,7 +77,7 @@ Test: Bring everything down and up — does the app wait for the DB?
 
 * It binds host port 5000 = container port 5000.
 
-* First two containers failed
+* First & third containers failed
 
 * Status:Created  means Docker couldn’t start them,port 5000 is already in use on the host.
 
