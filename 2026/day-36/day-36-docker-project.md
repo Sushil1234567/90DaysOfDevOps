@@ -86,3 +86,30 @@ Does it work fresh? If not — fix it until it does
 * Yes , it is up and running .
 
 <img width="1192" height="687" alt="image" src="https://github.com/user-attachments/assets/8aecb10e-54ad-481e-8d2e-650eb92122bd" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+**SCREENSHOTS**
+
+<img width="655" height="960" alt="image" src="https://github.com/user-attachments/assets/b5c55865-c7ad-40c2-8a2e-21d87526a63e" />
+
+-------------
+<img width="1188" height="993" alt="image" src="https://github.com/user-attachments/assets/764ee0b1-53ff-45bb-81ed-11ba43bad134" />
+
+------------
+<img width="658" height="422" alt="image" src="https://github.com/user-attachments/assets/67aa9a2a-644a-42dd-a4d2-4da7f3aa0db5" />
+
+------------
+<img width="1222" height="658" alt="image" src="https://github.com/user-attachments/assets/2a315a67-dc94-4323-9ef1-ac1e1e9b5e31" />
+
+------------
+<img width="906" height="652" alt="image" src="https://github.com/user-attachments/assets/5ec0fecc-25fb-42fa-b824-edceb13d42a8" />
+
+------------
+<img width="742" height="451" alt="image" src="https://github.com/user-attachments/assets/8d7a308a-54bd-43bb-8d91-431e030a65e6" />
+
+
+
+
+
+
