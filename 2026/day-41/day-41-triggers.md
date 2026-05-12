@@ -187,6 +187,14 @@ Set fail-fast: false — trigger a failure in one job and observe what happens t
 
 Write in your notes: What does fail-fast: true (the default) do vs false?
 
+* fail-fast: true
+"If one matrix job fails,
+stop the remaining matrix jobs quickly."
+
+* fail-fast: false
+"Even if one matrix job fails,
+allow all others to continue."
+
 ```
 .github/workflows/matrix.yml
 
